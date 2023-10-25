@@ -1,7 +1,7 @@
 # Travelsphere- Orbitz clone
 # E-Commerce Web App Using HTML,JS,CSS
 
-The original website is hosted [here](https://www.orbitz.com/). A website that primarily deals with booking tickets for flights, trains and even for hotel reservations.  The user is able to book tickets for a range of Hotels in Delhi, Mumbai and Bangalore. 
+. 
 
 ## We reproduced this web app and tried to imitate their design and main features. 
 This the collabrotive project of 4 members. Completed within 5 Days.
